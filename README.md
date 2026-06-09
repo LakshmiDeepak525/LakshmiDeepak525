@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Lucky 👋
 
-<!--
-**LakshmiDeepak525/LakshmiDeepak525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about Software Development and Problem Solving  
+🚀 Currently learning Java, Web Development, and Machine Learning  
+🌱 Building projects to improve my skills and gain real-world experience
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+- SQL
+- Machine Learning Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Campus Navigator
+- Weather App
+- More projects coming soon!
+
+## Goals
+- Improve my development skills
+- Contribute to open-source projects
+- Secure software development internships
+- Build impactful applications
+
+📫 Feel free to explore my repositories and connect with me!
